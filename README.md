@@ -103,10 +103,6 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Alternatives to Ejecting](#alternatives-to-ejecting)
 - [Something Missing?](#something-missing)
 
-## Sending Feedback
-
-We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
-
 ## Folder Structure
 
 After creation, your project should look like this:
